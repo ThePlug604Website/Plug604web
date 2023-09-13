@@ -1,7 +1,8 @@
 body {
     background-image: url(./Assets/Brown\ Abstract\ Background\ Square\ Pillow.png);
     font-family: sans-serif;
-    padding: 20px;
+    padding: 30px;
+    margin: auto;
     width: 100%;
     max-width: 1000px;
   }
@@ -26,7 +27,7 @@ body {
   
   .menu {
     width: 80%;
-    background-color: burlywood;
+    background-color: tan;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
@@ -34,8 +35,8 @@ body {
   }
   hr {
     height: 2px;
-    background-color: brown;
-    border-color: brown;
+    background-color: rgb(0, 255, 0);
+    border-color: rgb(0, 129, 0);
   }
   
   .bottom-line {
@@ -53,7 +54,7 @@ body {
     font-size: 18px;
   }
   
-  .weed, .dessert {
+  .weed, .pre_rolls {
     text-align: left;
     width: 75%;
   }
